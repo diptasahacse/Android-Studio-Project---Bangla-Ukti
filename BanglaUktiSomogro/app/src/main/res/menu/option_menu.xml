@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="পাঠকের জন্য">
+        <menu>
+
+            <item android:title="আরো অ্যাপ"
+                android:id="@+id/aroappid"
+                android:icon="@drawable/ic_android_black_24dp"
+                />
+            <item android:title="আইডিয়া শেয়ার করুন"
+                android:id="@+id/ideashareid"
+                android:icon="@drawable/ic_pan_tool_black_24dp"
+                />
+
+            <item android:title="কেরিয়ার"
+                android:id="@+id/carrierid"
+                android:icon="@drawable/ic_attach_money_black_24dp"
+                />
+
+            <item android:title="৫ স্টার দিন"
+                android:id="@+id/starid"
+                android:icon="@drawable/ic_star_black_24dp"
+                />
+
+
+
+
+
+
+        </menu>
+    </item>
+
+    <item android:title="আমি">
+        <menu>
+            <item android:title="আমার পরিচয়"
+                android:id="@+id/amarporicoyid"
+                android:icon="@drawable/ic_person_black_24dp"
+                />
+
+            <item android:title="ফেসবুকে আমি"
+                android:id="@+id/facebookid"
+                android:icon="@drawable/facebook"
+                />
+            <item android:title="লিঙ্কডিনে আমি"
+                android:id="@+id/inid"
+                android:icon="@drawable/in"
+                />
+            <item android:title="ইউটিউবে আমি"
+                android:id="@+id/youtubeid"
+                android:icon="@drawable/youtube"
+                />
+
+
+
+
+
+
+        </menu>
+    </item>
+
+
+
+
+</menu>
